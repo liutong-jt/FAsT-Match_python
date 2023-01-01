@@ -1,6 +1,6 @@
 # FAsT-Match_python
 
-**This repo is modified according to [source code](http://www.eng.tau.ac.il/~simonk/FastMatch/) matlab vision**.
+**This repo is according to [source code](http://www.eng.tau.ac.il/~simonk/FastMatch/) matlab vision**.
 
 ## Paper
 
